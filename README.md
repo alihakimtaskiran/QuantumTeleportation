@@ -1,4 +1,4 @@
-# QuantumTeleportation
+# Quantum Teleportation
 Non classical register required quantum teleportation system
 
 
